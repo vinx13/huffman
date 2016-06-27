@@ -87,7 +87,7 @@ void decompress(const std::string &src, const std::string &dest) {
 
 
 void usage(const std::string &prog) {
-    std::cerr << "Useage: " << std::endl
+    std::cerr << "Usege: " << std::endl
     << "    " << prog << "[-d] input_file output_file" << std::endl;
     std::exit(2);
 }

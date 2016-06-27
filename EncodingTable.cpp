@@ -1,4 +1,5 @@
 #include <sstream>
+#include <algorithm>
 #include "HuffmanTree.h"
 
 
